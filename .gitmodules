@@ -13,3 +13,6 @@
 [submodule "ext/yaml-cpp"]
 	path = ext/yaml-cpp
 	url = https://github.com/jbeder/yaml-cpp.git
+[submodule "cantera-jupyter"]
+	path = cantera-jupyter
+	url = https://github.com/Cantera/cantera-jupyter.git
